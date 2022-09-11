@@ -15,4 +15,19 @@ For any questions, please write an email to <a href="mailto:AshrayaApts2013@gmai
 2. Login using your Mobile Number / Email Number, which is shared with Office Bearers.  
 3. You can use Forgot Password option to reset your password anytime.
 
+## ADDA App Usage
+Once you have installed and logged-in to the ADDA App:
+1. You will see this first screen.  Tap the "My  Unit" option.
+
+![Home Screen](./images/ADDA-Home-Screen.png "Home")
+
+2. Your dues will be displayed here. 
+
+![My Unit Screen](./images/ADDA-MyUnit-Screeen.png "My Unit")
+
+3. Tap on History to check full statement.
+
+![History Screen](./images/ADDA-MyUnit-PaymentHistory-Screen.png "History")
+
+
 
