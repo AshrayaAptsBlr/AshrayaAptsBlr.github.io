@@ -2,10 +2,13 @@
 ### Welcome to the Ashraya Apartment - ADDA App Details
 For any questions, please write an email to <a href="mailto:AshrayaApts2013@gmail.com">Office Bearers</a>
 
+### MMC Collections was last updated till 16-Oct-2022 on ADDA App
+
 ## *** IMPORTANT ***
 1. Pay your MMC as you were paying before.  DO NOT use ADDA App for making payment.  We have not setup the Payment Gateway on ADDA App.  We will intimate you when the ADDA Payment Gateway setup is available for Ashraya.
-2. Treasure updates the MMC Collection on the ADDA App manually on Weekly basis.  The balance shown on your ADDA App may not be the latest.  Treasure will announce on WhatsApp whenever MMC Collections are updated on ADDA App. Please reach out to Treasurer (via <a href="mailto:AshrayaApts2013@gmail.com">Office Bearers</a>) for any clarification on 1-on-1 basis. 
+2. Treasure updates the MMC Collection on the ADDA App manually on Weekly basis.  The balance shown on your ADDA App may not be the latest.  Please reach out to Treasurer (via <a href="mailto:AshrayaApts2013@gmail.com">Office Bearers</a>) for any clarification on 1-on-1 basis. 
 3. As of now only the **Dues/Payment History** option is rolled out.  As we progress, we will start using other features of ADDA.
+
 
 ## ADDA App Setup Details 
 1. Install ADDA App 
