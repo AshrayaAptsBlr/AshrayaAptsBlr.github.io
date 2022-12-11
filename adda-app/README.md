@@ -2,7 +2,7 @@
 ### Welcome to the Ashraya Apartment - ADDA App Details
 For any questions, please write an email to <a href="mailto:AshrayaApts2013@gmail.com">Office Bearers</a>
 
-### MMC Collections received in our Bank were last updated till 04-Dec-2022 7:30pm IST on ADDA App
+### MMC Collections received in our Bank were last updated till 11-Dec-2022 7:30pm IST on ADDA App
 
 ## *** IMPORTANT ***
 1. Pay your MMC as you were paying before.  DO NOT use ADDA App for making payment.  We have not setup the Payment Gateway on ADDA App.  We will intimate you when the ADDA Payment Gateway setup is available for Ashraya.
